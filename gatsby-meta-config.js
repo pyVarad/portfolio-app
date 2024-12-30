@@ -13,8 +13,8 @@ module.exports = {
   author: {
     name: `Varad`,
     bio: {
-      role: `Admin`,
-      description: ['Developer', 'Artist'],
+      role: ``,
+      description: ['Software Engineer', 'passionate Artist'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
@@ -28,7 +28,7 @@ module.exports = {
   about: {
     timestamps: [
       // =====       [Timestamp Sample and Structure]      =====
-      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
+      // ===== 🚫 Don't erase this sample =====
       {
         date: '',
         activity: '',
@@ -44,9 +44,9 @@ module.exports = {
       // ========================================================
       {
         date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        activity: '',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
+          post: '/iitmbs',
           github: 'https://github.com/pyVarad/portfolio-app',
           demo: 'https://varad-blogs.vercel.app/',
         },
@@ -55,7 +55,7 @@ module.exports = {
 
     projects: [
       // =====        [Project Sample and Structure]        =====
-      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
+      // ===== 🚫 Don't erase this sample  =====
       {
         title: '',
         description: '',

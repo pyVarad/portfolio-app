@@ -9,7 +9,7 @@ function PageFooter({ author, githubUrl }) {
         &nbsp;
         <a href={githubUrl}>{author}</a>
         &nbsp;powered by
-        <a href="#">
+        <a href="https://varad-blogs.vercel.app">
           &nbsp;varad-blogs
         </a>
       </p>
